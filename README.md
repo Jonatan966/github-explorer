@@ -7,13 +7,13 @@ Este projeto é um buscador de repositórios do Github. Ele busca os repositóri
 
 ## :rocket: Como iniciar
 1. Antes de iniciar o servidor, é necessário baixar as dependências necessárias para o seu funcionamento. Para isso, digite este comando no **terminal/cmd**, e aguarde o download ser concluído:
-  ```
-  yarn
-  ```
+    ```
+    yarn
+    ```
 2. Após o download das dependências, basta digitar este comando que o servidor será iniciado:
-  ```
-  yarn start
-  ```
+    ```
+    yarn start
+    ```
 
 ## :alien: Tecnologias
 As tecnologias principais utilizadas neste projeto são as seguintes:
